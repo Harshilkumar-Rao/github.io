@@ -1,0 +1,24 @@
+{
+  "name": "untitled",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "private": true,
+  "devDependencies": {
+    "@types/bootstrap": "^5.2.10",
+    "@types/chart.js": "^2.9.41",
+    "@types/node": "^22.13.13",
+    "typescript": "^5.8.2",
+    "vite": "^5.4.15"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "chart.js": "^4.4.8",
+    "core-js": "^3.41.0"
+  }
+}
